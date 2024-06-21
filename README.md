@@ -1,4 +1,4 @@
-# Past Matches Miner
+# CricketCrawler: Past Matches Miner
 
 ## Overview
 
